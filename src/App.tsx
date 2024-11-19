@@ -44,7 +44,7 @@ function App() {
         <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
           <div className="flex items-center gap-3 mb-8">
             <CheckCircle2 className="h-8 w-8 text-emerald-500" />
-            <h1 className="text-2xl font-bold text-gray-900">Todo List</h1>
+            <h1 className="text-2xl font-bold text-gray-900">Todo Poo</h1>
           </div>
           
           <TodoInput onAdd={addTodo} />
